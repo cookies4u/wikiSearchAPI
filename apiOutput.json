@@ -1,0 +1,133 @@
+{
+    "batchcomplete": "",
+    "continue": {
+        "gsroffset": 10,
+        "continue": "gsroffset||"
+    },
+    "query": {
+        "pages": {
+            "16134": {
+                "pageid": 16134,
+                "ns": 0,
+                "title": "Jefferson Davis",
+                "index": 3,
+                "thumbnail": {
+                    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/President-Jefferson-Davis.jpg/39px-President-Jefferson-Davis.jpg",
+                    "width": 39,
+                    "height": 50
+                },
+                "pageimage": "President-Jefferson-Davis.jpg",
+                "extract": "Jefferson Finis Davis (June 3, 1808 – December 6, 1889) was an American politician who served as the President of the Confederate States from 1861 to 1865."
+            },
+            "29922": {
+                "pageid": 29922,
+                "ns": 0,
+                "title": "Thomas Jefferson",
+                "index": 2,
+                "thumbnail": {
+                    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Official_Presidential_portrait_of_Thomas_Jefferson_%28by_Rembrandt_Peale%2C_1800%29.jpg/42px-Official_Presidential_portrait_of_Thomas_Jefferson_%28by_Rembrandt_Peale%2C_1800%29.jpg",
+                    "width": 42,
+                    "height": 50
+                },
+                "pageimage": "Official_Presidential_portrait_of_Thomas_Jefferson_(by_Rembrandt_Peale,_1800).jpg",
+                "extract": "Thomas Jefferson (April 13 [O.S. April 2] 1743 – July 4, 1826) was an American Founding Father who was the principal author of the Declaration of Independence and later served as the third President of the United States from 1801 to 1809."
+            },
+            "62748": {
+                "pageid": 62748,
+                "ns": 0,
+                "title": "Jefferson",
+                "index": 1,
+                "extract": "Jefferson may refer to:"
+            },
+            "72806": {
+                "pageid": 72806,
+                "ns": 0,
+                "title": "Jefferson Airplane",
+                "index": 10,
+                "thumbnail": {
+                    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Jefferson_Airplane.jpg/50px-Jefferson_Airplane.jpg",
+                    "width": 50,
+                    "height": 49
+                },
+                "pageimage": "Jefferson_Airplane.jpg",
+                "extract": "Jefferson Airplane was a rock band based in San Francisco, California, who pioneered psychedelic rock."
+            },
+            "82374": {
+                "pageid": 82374,
+                "ns": 0,
+                "title": "Thomas Jefferson University",
+                "index": 8,
+                "extract": "For the unrelated California law school, see Thomas Jefferson School of Law."
+            },
+            "151874": {
+                "pageid": 151874,
+                "ns": 0,
+                "title": "Jefferson Starship",
+                "index": 6,
+                "thumbnail": {
+                    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Jefferson_Starship_photo_1976.JPG/50px-Jefferson_Starship_photo_1976.JPG",
+                    "width": 50,
+                    "height": 37
+                },
+                "pageimage": "Jefferson_Starship_photo_1976.JPG",
+                "extract": "Jefferson Starship was a post-Summer of Love American rock band out of San Francisco, California, formed first as a touring band, in 1974, featuring Paul Kantner, Grace Slick, Craig Chaquico, Peter Kaukonen, Johny Barbata, David Freiberg and Papa John Creach."
+            },
+            "260494": {
+                "pageid": 260494,
+                "ns": 0,
+                "title": "Jefferson, Wisconsin",
+                "index": 7,
+                "thumbnail": {
+                    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/JeffersonWisconsinDowntown.jpg/50px-JeffersonWisconsinDowntown.jpg",
+                    "width": 50,
+                    "height": 38
+                },
+                "pageimage": "JeffersonWisconsinDowntown.jpg",
+                "extract": "Jefferson is a city in Jefferson County, Wisconsin, United States, and is its county seat."
+            },
+            "376694": {
+                "pageid": 376694,
+                "ns": 0,
+                "title": "Jefferson Memorial",
+                "index": 5,
+                "thumbnail": {
+                    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Jefferson_Memorial_At_Dusk_1.jpg/50px-Jefferson_Memorial_At_Dusk_1.jpg",
+                    "width": 50,
+                    "height": 33
+                },
+                "pageimage": "Jefferson_Memorial_At_Dusk_1.jpg",
+                "extract": "The Jefferson Memorial is a presidential memorial in Washington, D.C., dedicated to Thomas Jefferson (1743–1826), one of the most important of the American Founding Fathers as the main drafter and writer of the Declaration of Independence, member of the Continental Congress, governor of the newly independent Commonwealth of Virginia, American minister to King Louis XVI and the Kingdom of France, first U.S. Secretary of State under the first President George Washington, the second Vice President of the United States under second President John Adams, and also the third President (1801–1809), as well as being the founder of the University of Virginia at Charlottesville, Virginia."
+            },
+            "2016931": {
+                "pageid": 2016931,
+                "ns": 0,
+                "title": "Presidency of Thomas Jefferson",
+                "index": 4,
+                "thumbnail": {
+                    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Thomas_Jefferson_by_Rembrandt_Peale%2C_1800.jpg/42px-Thomas_Jefferson_by_Rembrandt_Peale%2C_1800.jpg",
+                    "width": 42,
+                    "height": 50
+                },
+                "pageimage": "Thomas_Jefferson_by_Rembrandt_Peale,_1800.jpg",
+                "extract": "The presidency of Thomas Jefferson began on March 4, 1801, when he was inaugurated as the third President of the United States, and ended on March 4, 1809."
+            },
+            "20899920": {
+                "pageid": 20899920,
+                "ns": 0,
+                "title": "Religious views of Thomas Jefferson",
+                "index": 9,
+                "thumbnail": {
+                    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Thomas_Jefferson_by_Rembrandt_Peale%2C_1800.jpg/42px-Thomas_Jefferson_by_Rembrandt_Peale%2C_1800.jpg",
+                    "width": 42,
+                    "height": 50
+                },
+                "pageimage": "Thomas_Jefferson_by_Rembrandt_Peale,_1800.jpg",
+                "extract": "The religious views of Thomas Jefferson diverged widely from the orthodox Christianity of his era."
+            }
+        }
+    },
+    "limits": {
+        "pageimages": 50,
+        "extracts": 20
+    }
+}
